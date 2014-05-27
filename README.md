@@ -22,4 +22,4 @@ With GroupDocs Assembly plugin you can work with [contract management software] 
 * [Download Assembly plugin package here](https://github.com/groupdocs/ez-assembly)
 * [Embed DOC, DOCX, PDF Assembly in your ez Publish CMS website] (http://share.ez.no/projects)
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/plugins).
