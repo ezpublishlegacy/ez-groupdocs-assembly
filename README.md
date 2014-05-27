@@ -3,7 +3,7 @@
 
 GroupDocs Assembly plugin for ezPublish
 
-With GroupDocs Assembly plugin you can work with [contract management software] (http://groupdocs.com/apps/Assembly) directly from within your ezPublish CMS.
+With GroupDocs Assembly plugin you can work with [contract management software] (http://groupdocs.com/apps/assembly) directly from within your ezPublish CMS.
 
 ###Plugin Manual Installation Instructions:
 1. "groupdocsAssembly" module contain "design, modules, setting", so unzip it into "extentions" directory, so parent directory is "groupdocsAssembly"
